@@ -8,19 +8,19 @@ The school board beleives the students_complete.csv file shows evidence of acade
 
 ## Results
 Here is the average math score at all schools by grade with ninth graders from Thomas High Schools removed.
-![Average Math Scores by Grade](https://github.com/joeapodaca/Election_Analysis/blob/main/Resources/Determine_Winning_County.PNG)
+![Average Math Scores by Grade](https://github.com/joeapodaca/Shcool_District_Analysis/blob/main/Resources/average_math_grade.PNG)
 
 Here is the average reading score at all schools by grade with ninth graders from Thomas High Schools removed.
-![Average Reading Scores by Grade](https://github.com/joeapodaca/Election_Analysis/blob/main/Resources/Determine_Winning_County.PNG)
+![Average Reading Scores by Grade](https://github.com/joeapodaca/Election_Analysis/blob/main/Resources/average_reading_grade.PNG)
 
 
 
 
 The overall passing percentage of Thomas High School is 65%.
-
+![Overall Passing Percentage Without Ninth Grade](https://github.com/joeapodaca/Election_Analysis/blob/main/Resources/THS_with_ninth)
 
 Once all the ninth grade data is removed the overall passing percentage of Thomas High School goes up to 91%
-![Overall Passing Percentage Without Ninth Grade](https://github.com/joeapodaca/Election_Analysis/blob/main/Resources/Determine_Winning_County.PNG)
+![Overall Passing Percentage Without Ninth Grade](https://github.com/joeapodaca/Election_Analysis/blob/main/Resources/THS_without_ninth)
 
 
 
