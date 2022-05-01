@@ -17,7 +17,7 @@ Here is the average reading score at all schools by grade with ninth graders fro
 
 
 The overall passing percentage of Thomas High School is 65%.
-![Overall Passing Percentage](Users\japodaca\Documents\Joe A\Classwork\School_District_Analysis\Resources\THS_with_ninth.PNG)
+
 
 Once all the ninth grade data is removed the overall passing percentage of Thomas High School goes up to 91%
 ![Overall Passing Percentage Without Ninth Grade](https://github.com/joeapodaca/Election_Analysis/blob/main/Resources/Determine_Winning_County.PNG)
