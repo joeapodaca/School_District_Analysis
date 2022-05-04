@@ -7,40 +7,50 @@ The school board beleives the students_complete.csv file shows evidence of acade
 - Software Python 3.6.1, Jupyter Notebook
 
 ## Results
-Here is the average math score at all schools by grade with ninth graders from Thomas High Schools removed.
-![Average Math Scores by Grade](https://github.com/joeapodaca/Shcool_District_Analysis/blob/main/Resources/average_math_grade.PNG)
+Average math scores of all schools by grade with ninth graders from Thomas High Schools removed and showing as nan.
 
-Here is the average reading score at all schools by grade with ninth graders from Thomas High Schools removed.
-![Average Reading Scores by Grade](https://github.com/joeapodaca/Election_Analysis/blob/main/Resources/average_reading_grade.PNG)
+![Average Math Scores by Grade](https://github.com/joeapodaca/School_District_Analysis/blob/main/Resources/average_math_grade.PNG)
+
+Average reading score of all schools by grade with ninth graders from Thomas High Schools removed and showing as nan.
+
+![Average Reading Scores by Grade](https://github.com/joeapodaca/School_District_Analysis/blob/main/Resources/average_reading_grade.PNG)
 
 In the oriognal analysis the overall passing percentage of Thomas High School is 91%.
-![Overall Passing Percentage Without Ninth Grade](https://github.com/joeapodaca/Election_Analysis/blob/main/Resources/THS_without_ninth.PNG)
 
-In the oriognal analysis Thomas High School ranked 2nd among all schools.
-![Top 5 schools](https://github.com/joeapodaca/Election_Analysis/blob/main/Resources/Top_5_schools.PNG)
+![Overall Passing Percentage Without Ninth Grade](https://github.com/joeapodaca/School_District_Analysis/blob/main/Resources/THS_without_ninth.PNG)
 
+In the original analysis Thomas High School ranked 2nd among all schools.  Here are the top 5 schools.
+
+![Top 5 schools](https://github.com/joeapodaca/School_District_Analysis/blob/main/Resources/Top_5_schools.PNG)
 
 Once all the ninth grade data is removed the overall passing percentage of Thomas High School drops to 65%.
-![Overall Passing Percentage Without Ninth Grade](https://github.com/joeapodaca/Election_Analysis/blob/main/Resources/THS_with_ninth.PNG)
 
-The bottom 5 schools are;
-![Bottom 5 schools](https://github.com/joeapodaca/Election_Analysis/blob/main/Resources/Bottom_5_schools.PNG)
+![Overall Passing Percentage Without Ninth Grade](https://github.com/joeapodaca/School_District_Analysis/blob/main/Resources/THS_with_ninth.PNG)
 
-Average passing scores by school spending
-![Average passing scores by school spending](https://github.com/joeapodaca/Election_Analysis/blob/main/Resources/average_scores_school_spending.PNG)
+With ninth grade removed from Thomas High School they would be ranked towards the bottom.  Here are the bottom 5 schools from the orginal analysis.
 
-Average passing scores by school size
-![Bottom 5 schools](https://github.com/joeapodaca/Election_Analysis/blob/main/Resources/average_scores_school_size.PNG)
+![Bottom 5 schools](https://github.com/joeapodaca/School_District_Analysis/blob/main/Resources/Bottom_5_schools.PNG)
 
-Average passing scores by school type
-![Bottom 5 schools](https://github.com/joeapodaca/Election_Analysis/blob/main/Resources/average_scores_school_type.PNG)
+Average passing scores by school spending.
+
+![Average passing scores by school spending](https://github.com/joeapodaca/School_District_Analysis/blob/main/Resources/average_scores_school_spending.PNG)
+
+Average passing scores by school size.
+
+![Average passing scores by school size](https://github.com/joeapodaca/School_District_Analysis/blob/main/Resources/average_scores_school_size.PNG)
+
+Average passing scores by school type.
+
+![Average passing scores by school type](https://github.com/joeapodaca/School_District_Analysis/blob/main/Resources/average_scores_school_type.PNG)
 
 The orginal average passing scores across all schools.
-![average passing scores](https://github.com/joeapodaca/Election_Analysis/blob/main/Resources/average_passing_scores.PNG)
+
+![average passing scores](https://github.com/joeapodaca/School_District_Analysis/blob/main/Resources/average_passing_scores.PNG)
 
 
 The new average passing scores across all schools saw very little shift.
-![new average passing scores](https://github.com/joeapodaca/Election_Analysis/blob/main/Resources/new_average_passing_scores.PNG)
+
+![new average passing scores](https://github.com/joeapodaca/School_District_Analysis/blob/main/Resources/new_average_passing_scores.PNG)
 
 
 
