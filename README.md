@@ -57,7 +57,7 @@ The new average passing scores across all schools saw very little shift.
 
 ### Summary
 The ninth grades scores are helping the overall passing percentage by a huge amount.  The overall passing percenatge drops from 91% to 65% when ninth grade is removed.
-The spending per student shows that spending more money per student does not increase the overall passing percentage.  The overall passing percantege acutally goes down as per studnet spending increases.
+The spending per student shows that spending more money per student does not increase the overall passing percentage.  The overall passing percantege acutally goes down as per student spending increases.
 The school size seems make a big difference with the large schools having the lowest overall passing percentage.
 The charter schools perform the best with an overall passing of 90% compared to the district with only 54%.
 
